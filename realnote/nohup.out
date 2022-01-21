@@ -1,0 +1,8 @@
+/usr/share/libdrm/amdgpu.ids: No such file or directory
+[199382:199382:0115/230846.417034:ERROR:sandbox_linux.cc(378)] InitializeSandbox() called with multiple threads in process gpu-process.
+[199258:199371:0115/230852.318389:ERROR:udev_watcher.cc(98)] Failed to begin udev enumeration.
+[199258:199371:0115/230852.861801:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+[199258:199371:0115/230852.861840:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Fontconfig error: Cannot load default config file: No such file: (null)
+[199258:199258:0115/233129.449022:ERROR:CONSOLE(1)] "[Shields]: Can't request shields panel data for tabId: 66.  Error: No tab url specified", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[199258:199258:0115/233129.450274:ERROR:CONSOLE(1)] "[Shields]: Can't request shields panel data for tabId: 66.  Error: No tab url specified", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
